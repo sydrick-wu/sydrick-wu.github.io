@@ -18,4 +18,4 @@ You can find my CV here: [Sydrick’s Curriculum Vitae](../assets/吴哲与 Sydr
 
 For more info
 ------
-[Email](mailto:sydrick.wu@gmail.com) / [Github](https://github.com/Sydrrrrick) / [Wechat](../images/wechat.JPG) / [Instagram](https://www.instagram.com/syddddddrick/)
+[Wechat](../images/wechat.PNG) / [小红书](https://www.xiaohongshu.com/user/profile/5f9c79860000000001009d96?xhsshare=CopyLink&appuid=5f9c79860000000001009d96&apptime=1707038767)
