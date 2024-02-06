@@ -18,4 +18,4 @@ You can find my CV here: [Sydrick’s Curriculum Vitae](../assets/吴哲与 Sydr
 
 For more info
 ------
-[Wechat](../images/wechat.PNG) / [小红书](https://www.xiaohongshu.com/user/profile/5f9c79860000000001009d96?xhsshare=CopyLink&appuid=5f9c79860000000001009d96&apptime=1707038767)
+[Wechat](../images/wechat.pdf) / [小红书](https://www.xiaohongshu.com/user/profile/5f9c79860000000001009d96?xhsshare=CopyLink&appuid=5f9c79860000000001009d96&apptime=1707038767)
