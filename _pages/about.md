@@ -14,7 +14,7 @@ My latest internship was deal sourcing and due diligence in Miracle Plus (previo
 
 With my strong passion for travel, I have explored 16 countries as an adventurer seeking new experiences abroad after graduation of my middle school and I am currently learning Dutch and French. Any talk or advice is welcomed.
 
-You can find my CV here: [Sydrick’s Curriculum Vitae](../assets/吴哲与 Sydrick 2.4.2024.pdf).
+You can find my CV here: [Sydrick’s Curriculum Vitae](https://sydrrrrick.github.io/sydrick-wu.github.io/assets/吴哲与 Sydrick 2.4.2024.pdf).
 
 For more info
 ------
