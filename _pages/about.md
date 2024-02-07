@@ -48,7 +48,7 @@ Experience
 
   Cross-border E-commerce Marketing Intern
 
-* **Haisi Technology Co., LTD |  X Academy**, Shanghai / Shenzhen, 2021 - till now
+* **Haisi Technology Co., LTD - X Academy**, Shanghai / Shenzhen, 2021 - till now
 
   House Leader
 
@@ -56,7 +56,7 @@ Experience
 Projects
 ------
 * **MIT Energy Hackathon**, Cambridge, Boston, 2018
-* **X WEEK** (Harvard, MIT, Yale), Cambridge, Boston, 2018
+* **X WEEK**, Harvard, MIT, Yale, 2018
 * **X ACADEMY** Shanghai / Shenzhen, 2021 / 2022
 * **L'Oréal Global Business Strategy Competition**, Ningbo, 2021
 * **Harvard Summit for Young Leaders in China (HSYLC)**, Hangzhou, 2018
