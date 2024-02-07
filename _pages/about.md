@@ -18,7 +18,7 @@ My interests are diverse, spanning from vintage aesthetics to techno rave, jazz 
 
 As a certified Peer Listener, I am a compassionate communicator, skilled in Mandarin (First Language), English (IELTS-7.0), beginner of French, and I am currently learning Dutch.
 
-Beyond academics and professional pursuits, I'm a passionate member of UNNC **Rugby Varsity** as a Wing player, with a keen interest in **techno rave** culture and frontier tech like XR VR technology, AI. Enthusiastic about sports, fitness, cycling, basketball, movies, and extensive travel experiences spanning 16 countries worldwide as an adventurer seeking new experiences abroad.
+Beyond academics and professional pursuits, I'm a passionate member of UNNC **Rugby Varsity** as a Wing player, with a keen interest in **techno rave** culture and frontier tech like XR VR technology, AI. Enthusiastic about sports, fitness, cycling, basketball, movies, and extensive travel experiences spanning **16 countries** worldwide as an adventurer seeking new experiences abroad.
 
 I am open to discussions and welcome any advice or opportunities. **Feel free to reach me out!**
 
