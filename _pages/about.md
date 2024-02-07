@@ -22,15 +22,14 @@ Beyond academics and professional pursuits, I'm a passionate member of UNNC Rugb
 
 I am open to discussions and welcome any advice or opportunities. **Feel free to reach me out!**
 
-You can find my CV here: [Sydrick’s Curriculum Vitae](https://sydrrrrick.github.io/sydrick-wu.github.io/assets/吴哲与 Sydrick 2.4.2024.pdf).
 
 education
 ------
-• Economics and Business Economics, University van Amsterdam, 2023-
-GPA: **8.20 / 10.00**, Rank: **3%**
+* Economics and Business Economics, **University van Amsterdam**, 2023
+- GPA: **8.20 / 10.00**, Rank: **3%**
 
-• B.A. (Hons) in Economics, University of Nottingham, 2020-2023
-GPA: 3.77 / 4.00, Rank: 10%
+* B.A. (Hons) in Economics, **University of Nottingham**, 2020-2023
+- GPA: 3.77 / 4.00, Rank: 10%
 
 
 
