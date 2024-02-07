@@ -26,10 +26,10 @@ I am open to discussions and welcome any advice or opportunities. **Feel free to
 education
 ------
 * Economics and Business Economics, **University van Amsterdam**, 2023
-- GPA: **8.20 / 10.00**, Rank: **3%**
+- &#9702; GPA: **8.20 / 10.00**, Rank: **3%**
 
 * B.A. (Hons) in Economics, **University of Nottingham**, 2020-2023
-- GPA: 3.77 / 4.00, Rank: 10%
+- &#9702; GPA: 3.77 / 4.00, Rank: 10%
 
 
 
