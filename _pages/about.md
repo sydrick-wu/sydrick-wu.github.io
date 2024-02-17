@@ -44,7 +44,7 @@ Experience
 
   Data & Tech-Insight & Analytics / Executive Intern of Data Analysis
 
-* **Feilan Advertising Co., LTD**, Shanghai, June 2021 - Sept 2023
+* **Feilan Advertising Co., LTD**, Shanghai, June 2021 - Sept 2021
 
   Cross-border E-commerce Marketing Intern
 
