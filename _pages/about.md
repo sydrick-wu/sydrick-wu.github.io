@@ -23,7 +23,7 @@ Beyond academics and professional pursuits, I'm a passionate member of UNNC **Ru
 I am open to discussions and welcome any advice or opportunities. **Feel free to reach me out!**
 
 
-education
+Education
 ------
 * Economics and Business Economics, **University van Amsterdam**, 2023
 
