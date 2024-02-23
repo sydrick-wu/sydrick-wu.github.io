@@ -14,7 +14,7 @@ During my most recent internship at Miracle Plus (former YC China), based in Bei
 
 I consider myself as a versatile individual with a diverse skill set and a passion for cutting-edge technology projects. I am proficient in AI tools such as ChatGPT, Claude, DALL·E, Pica... alongside Python programming. I've cultivated a personal Xiaohongshu account to over 1000 followers. Additionally, I possess strong skills in data analysis and visualization, leveraging tools like Excel and PowerPoint to derive actionable insights, as well as video editing with Final Cut Pro X (FCPX), Adobe Premiere (PR), and ArcTime Pro.
 
-My interests are diverse, spanning from vintage aesthetics to techno rave, jazz music, movies, and captivating visuals. Artistically, I am a **signed photographer** versed in PS/AI/LR for design layout and photo post-production, and I am a licensed sketch artist with a B-Level certificate.
+My interests are diverse, spanning from vintage aesthetics to techno rave, jazz music, movies, and captivating visuals. Artistically, I am a **signed photographer** of Orient IC and Tuchong versed in PS/AI/LR for design layout and photo post-production, and I am a licensed sketch artist with a B-Level certificate.
 
 As a certified Peer Listener, I am a compassionate communicator, skilled in Mandarin (First Language), English (IELTS-7.0), beginner of French, and I am currently learning Dutch.
 
