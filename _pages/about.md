@@ -56,9 +56,12 @@ Experience
 Projects
 ------
 * **MIT Energy Hackathon**, Cambridge, Boston, 2018
-* **X WEEK**, Harvard, MIT, Yale, 2018
+* **Global Mentorship Program**, Ningbo / Shanghai, 2022
+* **NUBS China Consulting**, Ningbo, 2022
+* **Nottingham University Television Station (NUTS)**, Co-Producer, 2022
 * **X ACADEMY** Shanghai / Shenzhen, 2021 / 2022
 * **L'Oréal Global Business Strategy Competition**, Ningbo, 2021
+* **X WEEK**, Harvard, MIT, Yale, 2018
 * **Harvard Summit for Young Leaders in China (HSYLC)**, Hangzhou, 2018
 
 
