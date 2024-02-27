@@ -27,7 +27,7 @@ Education
 ------
 * Economics and Business Economics, **University van Amsterdam**, 2023
 
-  &#9702; GPA: **8.20 / 10.00**, Rank: **3%**
+  &#9702; GPA: **8.20 / 10.00**
 
 * B.A. (Hons) in Economics, **University of Nottingham**, 2020-2023
 
@@ -65,6 +65,15 @@ Projects
 Countries I‘ve been to（still exploring）
 ------
 China, U.S.A., Philippines, Netherlands, Germany, Belgium, France, Spain, Italy, Czechia, Hungary, Austria, Switzerland, Luxemburg, Danmark, Liechtenstein
+
+
+Some other tags (I am not really a 'tag' person tho...)
+------
+* Camino de Santiago, 100km, Santiago de Compostela, Spain, 2023
+* Signed photographer of Orient IC and Tuchong
+* UNNC Rugby Excel Team / Varsity Rugby Team, 2022
+* Gym, fitness, cycling, rugby, aerobics
+* Techno raver, EDM nomad, classical music
 
 
 For more info
