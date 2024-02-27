@@ -36,7 +36,7 @@ Education
 
 Experience
 ------
-* **MiraclePlus (former YC China)**, Beijing / Shanghai, Sept 2023 - till now
+* **MiraclePlus (former YC China)**, Beijing, Sept 2023 - Jan 2024
 
   Founders Relation / Investment Assistant
 
