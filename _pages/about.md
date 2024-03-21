@@ -18,7 +18,7 @@ My interests are diverse, spanning from vintage aesthetics to techno rave, jazz 
 
 As a certified Peer Listener, I am a compassionate communicator, skilled in Mandarin (First Language), English (IELTS-7.0), beginner in French, and I am currently learning Dutch.
 
-Beyond academics and professional pursuits, I'm a passionate member of UNNC **Rugby Varsity** as a Wing player. Enthusiastic about sports, fitness, cycling, basketball, movies, and extensive travel experiences spanning **16 countries** worldwide as an adventurer seeking new experiences abroad.
+Beyond academics and professional pursuits, I'm a passionate member of UNNC **Rugby Varsity** as a Wing player. Enthusiastic about sports, fitness, cycling, basketball, movies, and extensive travel experiences spanning **18 countries** worldwide as an adventurer seeking new experiences abroad.
 
 I am open to discussions and welcome any advice or opportunities. **Feel free to reach me out!**
 
@@ -67,7 +67,7 @@ Projects
 
 Countries I‘ve been to（still exploring）
 ------
-China, U.S.A., Philippines, Netherlands, Germany, Belgium, France, Spain, Italy, Czechia, Hungary, Austria, Switzerland, Luxemburg, Danmark, Liechtenstein
+China🇨🇳, U.S.A.🇺🇸, Philippines🇵🇭, Netherlands🇳🇱, Germany🇩🇪, Belgium🇧🇪, France🇫🇷, Spain🇪🇸, Italy🇮🇹, Czechia🇨🇿, Hungary🇭🇺, Austria🇦🇹, Switzerland🇨🇭, Luxemburg🇱🇺, Danmark🇩🇰, Liechtenstein🇱🇮, Malaysia🇲🇾, Singapore🇸🇬
 
 
 Some other tags (I am not really a 'tag' person tho...)
