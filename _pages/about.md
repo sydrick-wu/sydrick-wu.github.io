@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I am a passionate year 4 undergraduate student majoring in economics with a deep-seated interest in various fields. I consider myself a versatile individual with a diverse skill set and a passion for cutting-edge technology projects.
+Hey there, I am a passionate year 4 undergraduate student majoring in economics with a deep-seated interest in various fields. I consider myself a versatile individual with a diverse skill set and a passion for cutting-edge technology projects.
 
-I am a deep AI user (LLM / GLM / Agents)...alongside Python programming. During my most recent internship at Miracle Plus (former YC China), based in Beijing, China, where I held the role of Founders Relation, I spearheaded deal sourcing and conducted due diligence. My venture capital endeavours ignited my enthusiasm for entrepreneurship and cutting-edge technologies. I've honed my focus on artificial intelligence (LLM, NLP, Agents, etc.), Crypto (Blockchain) and Metaverse, nurturing a strong desire to launch my own cause in these innovative domains.
+I am a deep AI user. During my most recent internship at Miracle Plus (former YC China), based in Beijing / Shanghai, China, where I held the role of Founders Relation and Product User Growth, I spearheaded deal sourcing, due diligence and drove enrollment growth for MiraclePlus Startup School. My venture capital endeavours ignited my enthusiasm for entrepreneurship and cutting-edge technologies. I've honed my focus on artificial intelligence (LLM, NLP, Agents, etc.), Crypto (Blockchain) and Metaverse, nurturing a strong desire to launch my own cause in these innovative domains.
 
-My interests are diverse, spanning from vintage aesthetics to techno rave, jazz music, movies, and captivating visuals. I've cultivated a personal Xiaohongshu account with over 1000 followers. Additionally, I am a **signed photographer** of Orient IC and Tuchong versed in post-production and video editing, and I am also a licensed sketch artist with a B-Level certificate.
+My interests are diverse, spanning from Cycling, vintage aesthetics to techno rave, jazz, and captivating visuals. I've cultivated a personal Xiaohongshu account with 1000+ followers. Additionally, I am a **signed photographer** of Orient IC and Tuchong versed in post-production and video editing, and I am also a licensed sketch artist with a B-Level certificate.
 
 As a certified Peer Listener, I am a compassionate communicator, skilled in Mandarin (First Language), and English (IELTS-7.0), beginner in French & Dutch.
 
-Beyond academics and professional pursuits, I'm passionately into sports. I am a road bike **cyclist of NPCC** (No Power Cycling Club) and I am in UNNC **Touch Rugby Varsity** as a Wing player. Enthusiastic about gym, fitness, cycling, basketball, and I have travel experiences spanning **18 countries** worldwide as an adventurer seeking new experiences abroad.
+Beyond academics and professional pursuits, I'm passionately into sports and travelling. I am a road bike **cyclist of NPCC** (No Power Cycling Club) and I am in UNNC **Touch Rugby Varsity** as a Wing player. Enthusiastic about gym, fitness, cycling, basketball, and I have travel experiences spanning **18 countries** worldwide as an adventurer seeking new experiences abroad.
 
-I am open to discussions and welcome any advice or opportunities. **Feel free to reach me out!**
+I am open to discussions and welcome any advice or opportunities. **Feel free to reach me out.**
 
 
 Education
@@ -34,9 +34,14 @@ Education
 
 Experience
 ------
-* **MiraclePlus (former YC China)**, Beijing, Sept 2023 - Jan 2024
+* **MiraclePlus (former YC China)**, Beijing, Sept 2023 - till now
 
   Founders Relation / Investment Assistant
+  Product Marketing & User Growth
+  
+* **LightTECH**, Shanghai, May 2024 - till now
+
+  Consulting Intern in deal sourcing of tech Co. in Shanghai
 
 * **WPP Group plc - GroupM - Unilever Team (UNITE)**, Shanghai, June 2022- Sept 2022
 
@@ -46,7 +51,7 @@ Experience
 
   Cross-border E-commerce Marketing Intern
 
-* **Haisi Technology Co., LTD - X Academy**, Shanghai / Shenzhen, 2021 - till now
+* **Haisi Technology Co., LTD - X Academy**, Shanghai / Shenzhen, 2021 - 2022
 
   House Leader
 
@@ -68,7 +73,7 @@ Countries I‘ve been to（still exploring）
 China🇨🇳, U.S.A.🇺🇸, Philippines🇵🇭, Netherlands🇳🇱, Germany🇩🇪, Belgium🇧🇪, France🇫🇷, Spain🇪🇸, Italy🇮🇹, Czechia🇨🇿, Hungary🇭🇺, Austria🇦🇹, Switzerland🇨🇭, Luxemburg🇱🇺, Danmark🇩🇰, Liechtenstein🇱🇮, Malaysia🇲🇾, Singapore🇸🇬
 
 
-Some other tags (I am not really a 'tag' person tho...)
+Some achievements or tags (I am not really a 'tag' person tho...)
 ------
 * Camino de Santiago, Santiago de Compostela, Spain, 2023
 * Signed photographer of Orient IC and Tuchong
