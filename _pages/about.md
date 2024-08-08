@@ -12,7 +12,7 @@ Hey there, I am a passionate year 4 undergraduate student majoring in economics 
 
 I am a deep AI user. During my most recent internship at Miracle Plus (former YC China), based in Beijing / Shanghai, China, where I held the role of Founders Relation and Product User Growth, I spearheaded deal sourcing, due diligence and drove enrollment growth for MiraclePlus Startup School. My venture capital endeavours ignited my enthusiasm for entrepreneurship and cutting-edge technologies. I've honed my focus on artificial intelligence (LLM, NLP, Agents, etc.), Crypto (Blockchain) and Metaverse, nurturing a strong desire to launch my own cause in these innovative domains.
 
-My interests are diverse, spanning from Cycling, vintage aesthetics to techno rave, jazz, and captivating visuals. I've cultivated 2 personal Xiaohongshu account with 1000+ followers, one sharing my personal pics, the other updating the newest AI product. Additionally, I am a **signed photographer** of Orient IC and Tuchong versed in post-production and video editing, and I am also a licensed sketch artist with a B-Level certificate.
+My interests are diverse, spanning from Cycling, vintage aesthetics to techno rave, jazz, and captivating visuals. I've cultivated 2 personal Xiaohongshu accounts with 1000+ followers, one sharing my personal pics, and the other updating the newest AI product. Additionally, I am a **signed photographer** of Orient IC and Tuchong versed in post-production and video editing, and I am also a licensed sketch artist with a B-Level certificate.
 
 As a certified Peer Listener, I am a compassionate communicator, skilled in Mandarin (First Language), and English (IELTS-7.0), beginner in French & Dutch.
 
@@ -84,4 +84,4 @@ Some achievements or tags (I am not really a 'tag' person tho...)
 
 For more info
 ------
-[Wechat](https://sydrrrrick.github.io/sydrick-wu.github.io/images/WechatQR.JPG) / [小红书-personal](https://www.xiaohongshu.com/user/profile/5f9c79860000000001009d96?xhsshare=CopyLink&appuid=5f9c79860000000001009d96&apptime=1707038767) / [小红书-aiproducthunt](https://www.xiaohongshu.com/user/profile/5f6c4ec70000000001003a8c?xhsshare=CopyLink&appuid=5f9c79860000000001009d96&apptime=1723087523&share_id=60db565e63924ca694c9e757b6a8aa30)
+[Wechat](https://sydrick-wu.github.io/images/WechatQR.JPG) / [小红书-personal](https://www.xiaohongshu.com/user/profile/5f9c79860000000001009d96?xhsshare=CopyLink&appuid=5f9c79860000000001009d96&apptime=1707038767) / [小红书-aiproducthunt](https://www.xiaohongshu.com/user/profile/5f6c4ec70000000001003a8c?xhsshare=CopyLink&appuid=5f9c79860000000001009d96&apptime=1723087523&share_id=60db565e63924ca694c9e757b6a8aa30)
