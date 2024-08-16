@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hey there, I am a passionate year 4 undergraduate student majoring in economics with a deep-seated interest in various fields. I consider myself a versatile individual with a diverse skill set and a passion for cutting-edge technology projects.
+Hey there, I am a passionate year 4 undergraduate student majoring in economics with a deep-seated interest in various fields. I consider myself a versatile individual with a diverse skill set and a passion for cutting-edge technology projects. 
 
-I am a deep AI user. During my most recent internship at Miracle Plus (former YC China), based in Beijing / Shanghai, China, where I held the role of Founders Relation and Product User Growth, I spearheaded deal sourcing, due diligence and drove enrollment growth for MiraclePlus Startup School. My venture capital endeavours ignited my enthusiasm for entrepreneurship and cutting-edge technologies. I've honed my focus on artificial intelligence (LLM, NLP, Agents, etc.), Crypto (Blockchain) and Metaverse, nurturing a strong desire to launch my own cause in these innovative domains.
+Some keywords of my past experiences that hopefully you might find it useful: To B/G financing (VC and to G consulting), marketing, user growth, data analysis and cross-border online retail.
+
+I am an AI power user. During my most recent internship at Miracle Plus (former YC China), based in Beijing / Shanghai, China, where I held the role of Founders Relation and Product User Growth, I spearheaded deal sourcing, due diligence and drove user growth for MiraclePlus Startup School, where I designed and executed the whole viral growth by myself. My venture capital endeavours ignited my enthusiasm for entrepreneurship and cutting-edge technologies. I've honed my focus on artificial intelligence (LLM, NLP, Agents, etc.), Crypto (Blockchain) and Metaverse, nurturing a strong desire to launch my own cause in these innovative domains.
 
 My interests are diverse, spanning from Cycling, vintage aesthetics to techno rave, jazz, and captivating visuals. I've cultivated 2 personal Xiaohongshu accounts with 1000+ followers, one sharing my personal pics, and the other updating the newest AI product. Additionally, I am a **signed photographer** of Orient IC and Tuchong versed in post-production and video editing, and I am also a licensed sketch artist with a B-Level certificate.
 
@@ -34,7 +36,7 @@ Education
 
 Experience
 ------
-* **MiraclePlus (former YC China)**, Beijing, Sept 2023 - till now
+* **MiraclePlus (former YC China)**, Beijing, Sept 2023 - Aug 2024
 
   Founders Relation / Investment Assistant
   Product Marketing & User Growth
