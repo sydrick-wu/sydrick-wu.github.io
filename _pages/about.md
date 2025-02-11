@@ -10,15 +10,15 @@ redirect_from:
 
 Hey there, I am a passionate year 4 undergraduate student majoring in economics with a deep-seated interest in various fields. I consider myself a versatile individual with a diverse skill set and a passion for cutting-edge technology projects. 
 
-Some keywords of my past experiences that hopefully you might find it useful: To B/G financing (VC and to G consulting), marketing, user growth, data analysis and cross-border online retail.
+Some keywords of my past experiences that hopefully you might find useful: To B/G financing (VC and to G consulting), marketing, user growth, data analysis and global online retail (e-commerce).
 
 I am an AI power user. During my most recent internship at Miracle Plus (former YC China), based in Beijing / Shanghai, China, where I held the role of Founders Relation and Product User Growth, I spearheaded deal sourcing, due diligence and drove user growth for MiraclePlus Startup School, where I designed and executed the whole viral growth by myself. My venture capital endeavours ignited my enthusiasm for entrepreneurship and cutting-edge technologies. I've honed my focus on artificial intelligence (LLM, NLP, Agents, etc.), Crypto (Blockchain) and Metaverse, nurturing a strong desire to launch my own cause in these innovative domains.
 
-My interests are diverse, spanning from Cycling, vintage aesthetics to techno rave, jazz, and captivating visuals. I've cultivated 2 personal Xiaohongshu accounts with 1000+ followers, one sharing my personal pics, and the other updating the newest AI product. Additionally, I am a **signed photographer** of Orient IC and Tuchong versed in post-production and video editing, and I am also a licensed sketch artist with a B-Level certificate.
+My interests are diverse, spanning from cycling, vintage aesthetics to techno rave, jazz, and captivating visuals. I've cultivated 2 personal Xiaohongshu accounts with 1000+ followers, one sharing my personal pics, and the other updating the newest AI product. Additionally, I am a **signed photographer** of Orient IC and Tuchong versed in post-production and video editing, and I am also a licensed sketch artist with a B-Level certificate.
 
 As a certified Peer Listener, I am a compassionate communicator, skilled in Mandarin (First Language), and English (IELTS-7.0), beginner in French & Dutch.
 
-Beyond academics and professional pursuits, I'm passionately into sports and travelling. I am a road bike **cyclist of NPCC** (No Power Cycling Club) and I am in UNNC **Touch Rugby Varsity** as a Wing player. Enthusiastic about gym, fitness, cycling, basketball, and I have travel experiences spanning **18 countries** worldwide as an adventurer seeking new experiences abroad.
+Beyond academics and professional pursuits, I'm passionately into sports and travelling. I am a road bike **cyclist of NPCC** (No Power Cycling Club) and I am in UNNC **Touch Rugby Varsity** as a Wing player. Enthusiastic about gym, fitness, cycling, triathlon, and I have travel experiences spanning **18 countries** worldwide as an adventurer seeking new experiences abroad.
 
 I am open to discussions and welcome any advice or opportunities. **Feel free to reach me out.**
 
