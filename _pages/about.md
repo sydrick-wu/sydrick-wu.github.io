@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey there, I am a passionate master student majoring in economics with a deep-seated interest in various fields. I consider myself a versatile individual with a diverse skill set and a passion for endurance sports and cutting-edge technology projects.
+Hey there, I am a passionate post-graduate majoring in economics with a deep-seated interest in various fields. I consider myself a versatile individual with a diverse skill set and a passion for endurance sports and cutting-edge technology projects.
 
 Some keywords of my past experiences that hopefully you might find useful: Triathlete, to B/G financing (VC and to G consulting), marketing, user growth, data analysis and global online retail (e-commerce).
 
