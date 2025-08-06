@@ -23,9 +23,9 @@ I am open to discussions and welcome any advice or opportunities. **Feel free to
 
 Education
 ------
-* Economics, **Universität Mannheim**, 2025
+* MSc. Economics, **Universität Mannheim**, 2025
   
-* Economics and Business Economics, **Universiteit van Amsterdam**, 2023
+* BSc. Economics and Business Economics, **Universiteit van Amsterdam**, 2023
 
   &#9702; GPA: **8.20 / 10.00**, Rank: **Top 3%**
 
