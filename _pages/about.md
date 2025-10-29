@@ -23,15 +23,15 @@ I am open to discussions and welcome any advice or opportunities. **Feel free to
 
 Education
 ------
-* MSc. Economics, **Universität Mannheim**, 2025
+* MSc. Economics (VWL), **Universität Mannheim, Germany**, 2025-expected graduation 2027
   
-* BSc. Economics and Business Economics, **Universiteit van Amsterdam**, 2023
+* BSc. Economics and Business Economics, **Universiteit van Amsterdam, the Netherlands**, 2023
 
   &#9702; GPA: **8.20 / 10.00**, Rank: **Top 3%**
 
 * BSc. (Hons) in Economics, **University of Nottingham**, 2020-2022, 2024-2025
 
-  &#9702; Agerage Mark: 73 / 100, **First Class**
+  &#9702; Agerage Mark: 73 / 100, **First Class Honours**
 
 
 Experience
