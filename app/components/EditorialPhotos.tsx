@@ -27,7 +27,7 @@ export function EditorialPhoto({ name, language, caption, className = "", sizes 
   sizes?: string;
 }) {
   const photo = photos[name];
-  // Relative assets support both the /portfolio/ Pages route and the Sites root.
+  // Relative assets support both the GitHub Pages root and the Sites root.
   const path = `./photos/${name}`;
   return (
     <figure className={`editorial-photo ${className}`}>

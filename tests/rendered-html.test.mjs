@@ -60,7 +60,7 @@ async function render() {
   const { default: worker } = await import(workerUrl.href);
 
   return worker.fetch(
-    new Request("http://localhost/portfolio/", {
+    new Request("http://localhost/", {
       headers: { accept: "text/html", host: "portfolio.example" },
     }),
     {
@@ -127,7 +127,7 @@ test("server-renders Sydrick's finished portfolio", async () => {
   assert.match(html, /Sep 2026/);
   assert.match(html, /Qiandao Lake Triathlon/);
   assert.match(html, /id="profile"/);
-  assert.match(html, /property="og:image" content="https:\/\/sydrick-wu\.github\.io\/portfolio\/og\.jpg"/);
+  assert.match(html, /property="og:image" content="https:\/\/sydrick-wu\.github\.io\/og\.jpg"/);
   assert.doesNotMatch(html, /codex-preview|Your site is taking shape|react-loading-skeleton/i);
 });
 

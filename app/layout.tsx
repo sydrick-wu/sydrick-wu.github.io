@@ -22,19 +22,19 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://sydrick-wu.github.io"),
   title,
   description,
-  alternates: { canonical: "/portfolio/" },
+  alternates: { canonical: "/" },
   openGraph: {
     title,
     description,
     type: "website",
-    url: "/portfolio/",
-    images: [{ url: "/portfolio/og.jpg", width: 1200, height: 675, alt: "Sydrick Wu interactive 3D portfolio" }],
+    url: "/",
+    images: [{ url: "/og.jpg", width: 1200, height: 675, alt: "Sydrick Wu interactive 3D portfolio" }],
   },
   twitter: {
     card: "summary_large_image",
     title,
     description,
-    images: ["/portfolio/og.jpg"],
+    images: ["/og.jpg"],
   },
 };
 

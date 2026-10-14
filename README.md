@@ -1,5 +1,12 @@
 # vinext-starter
 
+## Public profile deployment
+
+This repository is `sydrick-wu/sydrick-wu.github.io` and publishes the interactive
+profile at https://sydrick-wu.github.io/. Pushes to `main` run the GitHub Pages
+workflow. Use `npm run build:pages` to verify the static export locally.
+The academic profile is hosted separately at https://sydrick-wu.github.io/portfolio/.
+
 A clean full-stack starter running on
 [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and
 Drizzle support.
